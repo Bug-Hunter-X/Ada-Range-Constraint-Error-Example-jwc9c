@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in Ada programming related to subtype range constraints.  The `bug.ada` file shows code that can cause a `Constraint_Error` exception. The solution (`bugSolution.ada`) shows how to handle this exception using exception handling.
